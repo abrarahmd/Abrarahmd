@@ -7,7 +7,7 @@
 
 - 👨‍💻 Portfolio [https://abrar-ahmed-portfolio.netlify.app/](https://abrar-ahmed-portfolio.netlify.app/)
 
-- 💬 Ask me about **Python, NodeJS, ExpressJS, HTML**
+- 💬 Ask me about **Python, NodeJS, ExpressJS, HTML, OpenGL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abr-ahmed/**
 
