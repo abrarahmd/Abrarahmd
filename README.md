@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarahmd&label=Profile%20views&color=0e75b6&style=flat" alt="abrarahmd" /> </p>
 
-- 🌱 I’m currently learning **Computer Graphics**
+- 🌱 I’m currently learning **Computer Graphics $ Compiler Design**
 
 - 👨‍💻 Portfolio [https://abrar-ahmed-portfolio.netlify.app/](https://abrar-ahmed-portfolio.netlify.app/)
 
