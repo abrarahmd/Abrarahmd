@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning: Computer Graphics & Compiler Design
 
-- 💬 Ask me about Python, NodeJS, ExpressJS, HTML, OpenGL
+- 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL
 
 - 📫 How to reach me: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>
 
-- 👨‍💻 This is my portfolio: <a href= "https://abrar-ahmed-portfolio.netlify.app/">Link</a>
+- 👨‍💻 This is my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
