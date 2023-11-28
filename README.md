@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, This is Abrar Ahmed</h1>
-<h3 align="center">A level-headed CSE student from Dhaka, Bangladesh</h3>
+## Hi 👋, This is Abrar Ahmed <br>
+A level-headed CSE student from Dhaka, Bangladesh
 
-<p><img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
+<img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
-<h3>About Me
----</h3>
+## About Me
 
 - 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
 
