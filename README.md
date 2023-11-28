@@ -1,5 +1,4 @@
-## Hi 👋, This is Abrar Ahmed <br>
-A level-headed CSE student from Dhaka, Bangladesh
+## Hi, This is Abrar Ahmed✋
 
 <img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
