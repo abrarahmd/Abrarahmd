@@ -2,6 +2,7 @@
 <h3 align="center">A level-headed CSE student from Dhaka, Bangladesh</h3>
 
 <p><img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
+---
 
 ## About Me
 
