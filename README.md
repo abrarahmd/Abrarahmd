@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Abrar Ahmed</h1>
 <h3 align="center">A level-headed CSE student from Dhaka, Bangladesh</h3>
 
-<p><img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" /></p>
+<p><img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
 ## About Me
 
@@ -11,7 +11,7 @@
 
 - 📱 Connect me on: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>, <a href= "https://www.instagram.com/___abrarahmed___/?hl=en">Instagram</a> <a href= "https://www.linkedin.com/in/the-abrarahmed/">LinkedIn</a>
 
-- 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a>
+- 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a><p>
 
 
 <h3 align="left">Languages and Tools:</h3>
