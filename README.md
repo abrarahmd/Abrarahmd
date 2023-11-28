@@ -14,6 +14,8 @@
 
 - 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a><p>
 
+[![Since 2023](https://wakatime.com/badge/user/c4933990-64f0-4101-b362-b288582ecb57.svg)](https://wakatime.com/@c4933990-64f0-4101-b362-b288582ecb57) <sup>Since 2023</sup> 
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarahmd&show_icons=true&locale=en&layout=compact" alt="abrarahmd" /></p>
