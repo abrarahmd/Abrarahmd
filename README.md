@@ -14,7 +14,6 @@
 
 - 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a><p>
 
-
+##
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarahmd&show_icons=true&locale=en&layout=compact" alt="abrarahmd" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarahmd&show_icons=true&locale=en" alt="abrarahmd" /></p
