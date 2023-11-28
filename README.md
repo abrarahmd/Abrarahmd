@@ -1,22 +1,21 @@
 # Hi, This is Abrar Ahmed✋
 
-<div>
-  <img align="right" alt="GIF" width="500" src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
+<div align="left">
+  <img align="left" alt="GIF" width="500" src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
-  <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=abrarahmd&label=Profile%20views&color=0e75b6&style=flat" alt="abrarahmd" /> 
-  </p>
+  <div>
+    <p align="left"> 
+      <img src="https://komarev.com/ghpvc/?username=abrarahmd&label=Profile%20views&color=0e75b6&style=flat" alt="abrarahmd" /> 
+    </p>
+
+    ### About Me:
+
+    - 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
+    - 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL
+    - 📱 Connect me on: [Facebook](https://www.facebook.com/Phantom.N3rd/), [Instagram](https://www.instagram.com/___abrarahmed___/?hl=en), [LinkedIn](https://www.linkedin.com/in/the-abrarahmed/)
+    - 💼 Check out my [Portfolio](https://abrar-ahmed-portfolio.netlify.app/)
+  </div>
 </div>
-
-### About Me:
-
-- 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
-
-- 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL
-
-- 📱 Connect me on: [Facebook](https://www.facebook.com/Phantom.N3rd/), [Instagram](https://www.instagram.com/___abrarahmed___/?hl=en), [LinkedIn](https://www.linkedin.com/in/the-abrarahmed/)
-
-- 💼 Check out my [Portfolio](https://abrar-ahmed-portfolio.netlify.app/)
 
 ##
 
