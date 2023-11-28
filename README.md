@@ -1,8 +1,9 @@
 # Hi, This is Abrar Ahmed✋
+### About Me
 
 <img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
-## About Me
+
 
 - 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
 
