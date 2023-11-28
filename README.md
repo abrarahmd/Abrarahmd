@@ -7,7 +7,7 @@
 
 - 💬 Ask me about Python, NodeJS, ExpressJS, HTML, OpenGL
 
-📫 How to reach me: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>
+- 📫 How to reach me: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>
 
 - 👨‍💻 This is my portfolio: <a href= "https://abrar-ahmed-portfolio.netlify.app/">Link</a>
 
