@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Abrar Ahmed</h1>
 <h3 align="center">A level-headed CSE student from Dhaka, Bangladesh</h3>
 
-<img align="right" alt="GIF" width=500 src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
 - 🌱 I’m currently learning: Computer Graphics & Compiler Design
 
