@@ -1,7 +1,7 @@
 # Hi, This is Abrar Ahmed✋
 
 <div>
-  <img align="left" alt="GIF" width="500" src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
+  <img align="right" alt="GIF" width="500" src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abrarahmd&label=Profile%20views&color=0e75b6&style=flat" alt="abrarahmd" /> 
