@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, This is Abrar Ahmed</h1>
 <h3 align="center">A level-headed CSE student from Dhaka, Bangladesh</h3>
+---
 
 <img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
