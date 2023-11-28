@@ -2,9 +2,9 @@
 <h3 align="center">A level-headed CSE student from Dhaka, Bangladesh</h3>
 
 <p><img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
----
 
-<h3>About Me</h3>
+<h3>About Me
+---</h3>
 
 - 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
 
