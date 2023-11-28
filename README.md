@@ -1,21 +1,20 @@
 # Hi, This is Abrar Ahmed✋
 
-<div align="left">
-  <img align="left" alt="GIF" width="500" src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
+<img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 
-  <div>
-    <p align="left"> 
-      <img src="https://komarev.com/ghpvc/?username=abrarahmd&label=Profile%20views&color=0e75b6&style=flat" alt="abrarahmd" /> 
-    </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abrarahmd&label=Profile%20views&color=0e75b6&style=flat" alt="abrarahmd" /> 
+</p>
 
-    ### About Me:
+### About Me:
 
-    - 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
-    - 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL
-    - 📱 Connect me on: [Facebook](https://www.facebook.com/Phantom.N3rd/), [Instagram](https://www.instagram.com/___abrarahmed___/?hl=en), [LinkedIn](https://www.linkedin.com/in/the-abrarahmed/)
-    - 💼 Check out my [Portfolio](https://abrar-ahmed-portfolio.netlify.app/)
-  </div>
-</div>
+- 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
+
+- 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL
+
+- 📱 Connect me on: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>, <a href= "https://www.instagram.com/___abrarahmed___/?hl=en">Instagram</a> <a href= "https://www.linkedin.com/in/the-abrarahmed/">LinkedIn</a>
+
+- 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a><p>
 
 ##
 
