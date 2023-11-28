@@ -4,7 +4,7 @@
 <p><img align="right" alt="GIF" width=500 src="https://raw.githubusercontent.com/bharatkathorer/bharatkathorer/master/assets/animated.gif" />
 ---
 
-## About Me
+<h3>About Me</h3>
 
 - 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
 
