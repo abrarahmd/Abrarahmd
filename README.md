@@ -8,13 +8,19 @@
 
 ### About Me:
 
-- 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design
+- 🌐 My center of attention is both Frontend-Backend.
 
-- 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL
+- 🤖 Currently working on my Thesis on Natural Language Processing.
 
-- 📱 Connect me on: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>, <a href= "https://www.instagram.com/___abrarahmed___/?hl=en">Instagram</a> <a href= "https://www.linkedin.com/in/the-abrarahmed/">LinkedIn</a>
+- 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design.
 
-- 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a><p>
+- 😎 One fun fact about me is I love to teach.
+
+- 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL.
+
+- 📱 Connect me on: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>, <a href= "https://www.instagram.com/___abrarahmed___/?hl=en">Instagram</a> <a href= "https://www.linkedin.com/in/the-abrarahmed/">LinkedIn</a>.
+
+- 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a>.<p>
 
 ##
 
