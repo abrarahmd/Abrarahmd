@@ -12,8 +12,6 @@
 
 - 🤖 Currently working on my Thesis on Natural Language Processing.
 
-- 👨‍💻 I’m currently learning: Computer Graphics & Compiler Design.
-
 - 😎 One fun fact about me is I love to teach.
 
 - 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL.
