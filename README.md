@@ -14,7 +14,7 @@
 
 - 😎 One fun fact about me is I love to teach.
 
-- 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL.
+- 💬 Ask me about: Python, NodeJS, ExpressJS, HTML, OpenGL, Compiler Design.
 
 - 📱 Connect me on: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>, <a href= "https://www.instagram.com/___abrarahmed___/?hl=en">Instagram</a> <a href= "https://www.linkedin.com/in/the-abrarahmed/">LinkedIn</a>.
 
