@@ -18,7 +18,7 @@
 
 - 📱 Connect me on: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>, <a href= "https://www.instagram.com/___abrarahmed___/?hl=en">Instagram</a> <a href= "https://www.linkedin.com/in/the-abrarahmed/">LinkedIn</a>.
 
-- 💼 Check out my <a href= "https://abrar-ahmed-portfolio.netlify.app/">Portfolio</a>.<p>
+- 💼 Check out my <a href= "https://abrarahmd.github.io/Portfolio_AbraAhmed/">Portfolio</a>.<p>
 
 ##
 
