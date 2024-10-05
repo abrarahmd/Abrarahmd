@@ -8,7 +8,7 @@
 
 ### About Me:
 
-- 🌐 My center of attention is both Frontend-Backend.
+- 🌐 My center of attention is AI & ML.
 
 - 🤖 Currently working on my Thesis on Natural Language Processing.
 
