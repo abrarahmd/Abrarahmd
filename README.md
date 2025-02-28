@@ -14,7 +14,7 @@
 
 - 😎 One fun fact about me is I love to teach.
 
-- 💬 Ask me about: Artificial Intelligence, Machine Learning, ExpressJS, ReactJS, MySQL. 
+- 💬 Ask me about: Artificial Intelligence, Machine Learning, Natural Language Processing, ExpressJS, ReactJS, MySQL. 
 
 - 📱 Connect me on: <a href= "https://www.facebook.com/Phantom.N3rd/">Facebook</a>, <a href= "https://www.instagram.com/___abrarahmed___/?hl=en">Instagram</a> <a href= "https://www.linkedin.com/in/the-abrarahmed/">LinkedIn</a>.
 
