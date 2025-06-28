@@ -10,8 +10,6 @@
 
 - 🧑‍💼 Currently employed at Celloscope as a Trainee - AI/ML.
 
-- 🌐 My center of attention is AI & ML.
-
 - 🤖 Currently working on my Thesis on Natural Language Processing.
 
 - 😎 One fun fact about me is I love to teach.
