@@ -8,9 +8,9 @@
 
 ### About Me
 
-* 🎓 MSc in **Computer Science** at the **University of Calgary**
-* 💼 Former **Junior AI/ML Engineer** at **Celloscope**
-* 🔬 Interested in **AI, Machine Learning, Computer Vision & Multimodal AI**
-* 👨‍🏫 Fun fact: I love to teach
-* 💬 Ask me about **AI/ML, Computer Vision, LLMs, VLMs & RAG**
-* 🌐 [Portfolio](https://abrarahmd.dev/) · [LinkedIn](https://www.linkedin.com/in/abrarahmd/) · [Facebook](https://www.facebook.com/Phantom.N3rd/) · [Instagram](https://www.instagram.com/___abrarahmed___/)
+- 🎓 MSc in **Computer Science** at the **University of Calgary**
+- 💼 Former **Junior AI/ML Engineer** at **Celloscope**
+- 🔬 Interested in **AI, Machine Learning, Computer Vision & Multimodal AI**
+- 👨‍🏫 Fun fact: I love to teach
+- 💬 Ask me about **AI/ML, Computer Vision, LLMs, VLMs & RAG**
+- 🌐 [Portfolio](https://abrarahmd.dev/) · [LinkedIn](https://www.linkedin.com/in/abrarahmd/) · [Facebook](https://www.facebook.com/Phantom.N3rd/) · [Instagram](https://www.instagram.com/___abrarahmed___/)
